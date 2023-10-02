@@ -1,4 +1,4 @@
-# 💫  Hi ! I am Akshay Kumar Dubey
+# ⭐  Hi , I am Akshay Kumar Dubey.
 <br>👯 I’m looking to collaborate on Software Development .<br>🌱 Languages known - C | C++ | Python | JavaScript | SQL | MongoDB .<br>💬 Ask me about - Coding and Software Development .<br>⚡ Fun fact - Always willing to find a better way.
 
 
