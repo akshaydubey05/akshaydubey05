@@ -22,7 +22,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=akshaydubey05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile views](https://shields-io-visitor-counter.onrender.com/badge?page=akshaydubey05&label=Profile%20Views&labelColor=1F1F1F&color=3EDBF0&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=akshaydubey05)
 
 
   ## 💰 You can help me by Donating
